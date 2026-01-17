@@ -1,16 +1,19 @@
-## Hi there 👋
+Welcome to Mayvel Ashraf's profile 👋
 
-<!--
-**mayvel123/mayvel123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student  
+🏆 ECPC participant  
+💡 Currently learning Web Development (HTML, CSS, JS)  
+📚 Building strong programming fundamentals  
 
-Here are some ideas to get you started:
+💻 What I'm currently working on
+Learning programming fundamentals, Practicing problem solving ,Exploring Git & GitHub  
+Building Web Development projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🚀 Skills & Tools (learning)
+ Programming fundamentals ,Problem Solving  
+ Git & GitHub  
+ Web Development (HTML, CSS, JS)  
+
+💡Goals
+ Improve problem-solving skills  
+ Build real projects
